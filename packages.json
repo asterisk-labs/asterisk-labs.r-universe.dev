@@ -1,8 +1,8 @@
 [
   {
     "package": "cozip",
-    "url": "https://github.com/asterisk-labs/taco",
-    "subdir": "cozip/r",
+    "url": "https://github.com/asterisk-labs/cozip",
+    "subdir": "r",
     "branch": "main"
   }
 ]
