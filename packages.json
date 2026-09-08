@@ -4,5 +4,11 @@
     "url": "https://github.com/asterisk-labs/cozip",
     "subdir": "r",
     "branch": "main"
+  },
+  {
+    "package": "taco",
+    "url": "https://github.com/asterisk-labs/taco",
+    "subdir": "r",
+    "branch": "main"
   }
 ]

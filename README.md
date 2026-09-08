@@ -9,7 +9,7 @@ Browse the universe: <https://asterisk-labs.r-universe.dev>
 ## Install any package
 
 ```r
-install.packages("cozip", repos = "https://asterisk-labs.r-universe.dev")
+install.packages("taco", repos = "https://asterisk-labs.r-universe.dev")
 ```
 
 ## Packages
@@ -17,6 +17,7 @@ install.packages("cozip", repos = "https://asterisk-labs.r-universe.dev")
 | Package | Description |
 |---------|-------------|
 | [cozip](https://asterisk-labs.r-universe.dev/cozip) | Cloud-Optimized ZIP — open a ZIP like a table |
+| [taco](https://asterisk-labs.r-universe.dev/taco) | Read TACO datasets |
 
 ## How this works
 
