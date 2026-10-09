@@ -6,6 +6,12 @@
     "branch": "main"
   },
   {
+    "package": "geozl",
+    "url": "https://github.com/asterisk-labs/geozl",
+    "subdir": "bindings/r",
+    "branch": "main"
+  },
+  {
     "package": "taco",
     "url": "https://github.com/asterisk-labs/taco",
     "subdir": "r",

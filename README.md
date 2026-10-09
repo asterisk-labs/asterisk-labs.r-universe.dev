@@ -17,6 +17,7 @@ install.packages("taco", repos = "https://asterisk-labs.r-universe.dev")
 | Package | Description |
 |---------|-------------|
 | [cozip](https://asterisk-labs.r-universe.dev/cozip) | Cloud-Optimized ZIP — open a ZIP like a table |
+| [geozl](https://asterisk-labs.r-universe.dev/geozl) | Compress raster tiles with GeoZL codecs for OpenZL |
 | [taco](https://asterisk-labs.r-universe.dev/taco) | Read TACO datasets in R |
 
 ## How this works
